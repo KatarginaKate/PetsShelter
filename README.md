@@ -27,7 +27,6 @@ The project was built using modern web development technologies.
 - CSS3
 - JavaScript
 - React
-- [Additional technologies]
 
 ## 🚀 Getting Started
 
